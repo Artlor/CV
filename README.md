@@ -7,4 +7,4 @@ This repository is split into 3 sections:
 - Contains links to my music on different streaming services.
 
 3. GDD 
-- Contains a game design document I made about my dream MMORPG and a map of the game world.
+- Contains a game design document describing different aspects of my dream MMORPG and a map of the game world.
