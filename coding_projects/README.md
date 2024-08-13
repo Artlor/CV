@@ -6,7 +6,9 @@ The game’s rules can be summarized as X < Y < Z. Players need to shoot correct
 Z beam is weaker than X. Have fun! :) 
 
 Player controls:
-Player 1: QWE 
+
+Player 1: QWE
+
 Player 2: P[]
 
 IMPORTANT: The settings.txt file allows user to change starting HP of players and bullet speed. The game looks for this file in current working directory, so that's
@@ -16,7 +18,9 @@ where you should put it.
 - A fun game for two players with simple but engaging rules. Players work together and to win they have to catch all the dots that keep reappearing in random places.
 
 Player controls:
+
 Player 1: WASD
+
 Player 2: Up/Down/Left/Right Arrows
 
 3. Guitar_Note_Helper
@@ -27,7 +31,11 @@ It contains a neck of the guitar made of ASCII signs that helps learner to visua
 - A console game written in C++ in which player can move, build walls and shoot enemies.
 
 Player controls:
+
 Moving: WASD
+
 Shooting: Space
+
 Build wall: Left Shift + Up/Down/Left/Right Arrows
+
 Change facing direction: Left Control + Up/Down/Left/Right Arrows
