@@ -28,6 +28,6 @@ It contains a neck of the guitar made of ASCII signs that helps learner to visua
 
 Player controls:  
 Moving: WASD  
-Shooting: Spacebar
+Shooting: Spacebar  
 Build wall: Left Shift + Up/Down/Left/Right Arrows  
 Change facing direction: Left Control + Up/Down/Left/Right Arrows
