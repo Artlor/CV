@@ -15,7 +15,7 @@ IMPORTANT: The settings.txt file allows user to change starting HP of players an
 where you should put it.
 
 2. Grrnd
-- A fun game for two players with simple but engaging rules. Players work together and to win they have to catch all the dots that keep reappearing in random places.
+- A fun game written in C++ for two players with simple but engaging rules. Players work together and to win they have to catch all the dots that keep reappearing in random places.
 
 Player controls:
 
