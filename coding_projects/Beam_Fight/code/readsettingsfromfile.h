@@ -41,6 +41,6 @@ void readSettingsFromFile()
 	}
 	else
 	{
-		exit(0);
+		return;
 	}
 }
