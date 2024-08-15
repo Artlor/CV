@@ -31,3 +31,14 @@ Moving: WASD
 Shooting: Spacebar  
 Build wall: Left Shift + Up/Down/Left/Right Arrows  
 Change facing direction: Left Control + Up/Down/Left/Right Arrows
+
+## How to build projects on Windows OS
+- After cloning repository do the following in console:
+
+```
+cd CV/coding_projects
+mkdir build
+cd build
+cmake ../
+cmake --build .
+```
