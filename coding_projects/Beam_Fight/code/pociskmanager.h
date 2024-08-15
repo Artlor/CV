@@ -29,7 +29,7 @@ public:
 	TypPocisku getBulletType(uint8_t _i);
 	void damageFirstBullet();
 	bool isHpFull(uint8_t _i);
-	void countBullets();
+	void countBullets()
 	{
 		int x = 0, y = 0, z = 0;
 			for (int i = 0; i < vectorPociskow.size(); i++)
