@@ -53,7 +53,7 @@ private:
 	TypPocisku typPocisku;
 	WhichPlayerEnum whichPlayer;
 	TypPocisku rememberLastBulletType;
-	unsigned int bulletChangesCounter;
+	unsigned int bulletChangesCounter = 0;
 	short manaChangeCounter;
 	short anchorManaValue;
 	bool updateHPBasedOnManaTrigger;
