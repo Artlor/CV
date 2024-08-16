@@ -8,3 +8,6 @@
 
 ### GDD 
 - Contains a game design document describing different aspects of my dream MMORPG and a map of the game world.
+
+### SOUNDHOLE
+- World's most versatile, multifunctional, standing foldable acoustic panel. Irreplacable tool for every audio engineer/recording engineer/singer/artist and everyone else working with sound and microphones.
