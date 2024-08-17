@@ -2,6 +2,25 @@
 
 - World's most versatile, multifunctional, standing foldable acoustic panel. Irreplacable tool for every audio engineer/recording engineer/vocalist/artist and everyone else working with sound and microphones.
 
+  <table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://github.com/Artlor/CV/blob/main/SOUNDHOLE/Photos/1_vocal_booth.png" width="500">
+          <br>
+          <i>SOUNDHOLE as a vocal booth</i>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://github.com/Artlor/CV/blob/main/SOUNDHOLE/Photos/2_folded.png" width="500">
+          <br>
+          <i>Folded SOUNDHOLE - ready to be moved</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+
 ### Sound examples
 **- Voice-over:** https://soundcloud.com/pawel-biernacki98/sets/g-os  
 **- Acoustic guitar:** https://soundcloud.com/pawel-biernacki98/sets/gitara-akustyczna  
