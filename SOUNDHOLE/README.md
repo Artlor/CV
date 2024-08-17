@@ -1,12 +1,17 @@
-# SOUNDHOLE
+# SOUNDHOLE  
 
-**World's most versatile, multifunctional, standing, foldable acoustic panel. Irreplacable tool for every audio engineer/recording engineer/vocalist/artist and everyone else working with sound and microphones.** 
+<h2 align="center">
+  &#8595; SOUND SAMPLES BELOW &#8595;
+</h2>
+
+**World's most versatile, multifunctional, standing, foldable acoustic panel. Irreplaceable tool for every audio engineer/recording engineer/vocalist/artist and everyone else working with sound and microphones.** 
 
 - Guarantees clear, professional sounding audio anywhere, anytime you need - no need to go to professional studio. With SOUNDHOLE, your studio is right there with you, anywhere you go.
-- Extremely mobile - stands firmly on two custom made attachable steel stands, anywhere you place it. You can even hang it on the wall, or remove legs, fold it and store all panels one of top of the other, saving space.
-- Foldable -  fold it to turn it into 20cm thick basstrap or if you need to capture sound source that is close to the ground (like guitar amp).
+- Extremely mobile - stands firmly on two custom made attachable steel stands, anywhere you place it. You can even hang it on the wall or remove legs, fold it and store all panels one of top of the other, saving space.
+- Foldable -  fold it to turn it into 20cm thick bass trap or if you need to capture sound source that is close to the ground (like guitar amp).
 - Sturdy build - hardwood treated against insects and mold, with 3 types of joints on each corner ensuring more build strength than you will ever need.
-- Safe for health - mineral wool contained inside is 100% sealed with a thin cover foil and agrotextile blocking all of potentially hazardous fibers but allowing sound through freely. This important step is often overlooked by most acoustic panel manufacturers.
+- Safe for health - mineral wool contained inside is 100% sealed with a thin cover foil and agrotextile blocking all of potentially hazardous fibers while allowing sound through freely. This important step is often overlooked by most acoustic panel manufacturers.
+- One of its kind - I **mean** it. I dare you to find a better acoustic panel anywhere on the market. You can't. You won't. SOUNDHOLE beats them all by a landslide.
 
 
   <table cellpadding="0" cellspacing="0" border="0">
@@ -22,7 +27,7 @@
         <p align="center">
           <img src="https://github.com/Artlor/CV/blob/main/SOUNDHOLE/Photos/2_folded.png" width="500">
           <br>
-          <i>Folded SOUNDHOLE - ready to be moved or stored </i>
+          <i>Folded SOUNDHOLE - ready to record or to be moved/stored </i>
         </p>
       </td>
     </tr>
