@@ -1,6 +1,6 @@
 # SOUNDHOLE
 
-**World's most versatile, multifunctional, standing foldable acoustic panel. Irreplacable tool for every audio engineer/recording engineer/vocalist/artist and everyone else working with sound and microphones.** 
+**World's most versatile, multifunctional, standing, foldable acoustic panel. Irreplacable tool for every audio engineer/recording engineer/vocalist/artist and everyone else working with sound and microphones.** 
 
 - Guarantees clear, professional sounding audio anywhere, anytime you need - no need to go to professional studio. With SOUNDHOLE, your studio is right there with you, anywhere you go.
 - Extremely mobile - stands firmly on two custom made attachable steel stands, anywhere you place it. You can even hang it on the wall, or remove legs, fold it and store all panels one of top of the other, saving space.
