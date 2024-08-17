@@ -20,8 +20,7 @@ Player 1: WASD
 Player 2: Up/Down/Left/Right Arrows
 
 ### Guitar_Note_Helper
-- A console application written in C++ which makes learning names of notes across entire guitar’s fretboard easier for guitarists. 
-It contains a neck of the guitar made of ASCII signs that helps learner to visualize the instrument and the position of a particular note he is asked about.
+- A gamified application written in C++ which makes learning names of notes across entire guitar’s fretboard easy and fun. It contains a neck of the guitar made of ASCII signs that helps learner to visualize the instrument and the position of a particular note he is asked about.
 
 ### Run_Build_Fight
 - A console game written in C++ in which player can move, build walls and shoot enemies.
