@@ -1,4 +1,9 @@
-# This repository is split into 4 sections:
+<h2 align="center">Paweł Biernacki <br> Email: pawel.biernacki98@gmail.com </h2>
+
+# This repository is split into 5 sections:
+
+### sound_design_showcase
+- Contains a 3 minute showcase of interactive audio implementation in a space shooter game. Over 70 unique sounds created from scratch. Game download for Windows available.
 
 ### coding_projects
 - Contains some of my C++ projects. Three of them are games and one is music related (learning placement of notes on guitar fretboard).

@@ -1,3 +1,5 @@
+**<p style="text-align:center;">This folder contains a game design document describing different aspects of my dream MMORPG and a map of the game world.</p>**
+
 <h1 align="center">
   Conceptual game map 
 </h1>
