@@ -4,9 +4,13 @@
 ## Links
 
 **Game sound design showcase on YouTube:** https://youtu.be/_EdfwHmRIZ0?si=Gp_hkFBMXD7Q5Zx7
+
 **Game download on Windows:** https://clippinpaul.itch.io/under-stars
+
 ## Description
+
 Implemented a variety of sounds, both 2D and 3D, ranging from short one shots to long looped sounds with multiple fade in and fade outs. Parameter automation used to enhance the player's immersion by changing intensity of the ship's engine sound. Carefully implemented randomization formula for playback of background asteroid spawning sounds helps to create a cohesive ambient experience.
+
 <h2 align="center">
   &#8595; SOUND LIST &#8595;
 </h2>

@@ -1,4 +1,4 @@
-<h2 align="center">Paweł Biernacki <br> Email: pawel.biernacki98@gmail.com </h2>
+## <p align="center">Paweł Biernacki <br> email: pawel.biernacki98@gmail.com </p>
 
 # This repository is split into 5 sections:
 
