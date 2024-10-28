@@ -9,7 +9,7 @@
 
 ## Description
 
-Implemented a variety of sounds, both 2D and 3D, ranging from short one shots to long looped sounds with multiple fade in and fade outs. Parameter automation used to enhance the player's immersion by changing intensity of the ship's engine sound. Carefully implemented randomization formula for playback of background asteroid spawning sounds helps to create a cohesive ambient experience.
+A space shooter game where your task is to fly around in a spaceship and destroy asteroids. Implemented a variety of sounds, both 2D and 3D, ranging from short one shots to long looped sounds with multiple fade in and fade outs. Parameter automation used to enhance the player's immersion by changing intensity of the ship's engine sound. Carefully implemented randomization formula for playback of background asteroid spawning sounds helps to create a cohesive ambient experience.
 
 <h2 align="center">
   &#8595; SOUND LIST &#8595;
