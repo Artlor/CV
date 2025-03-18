@@ -16,3 +16,6 @@
 
 ### SOUNDHOLE
 - World's most versatile, multifunctional, standing, foldable acoustic panel. Irreplacable tool for every audio engineer/recording engineer/vocalist/artist and everyone else working with sound and microphones.
+
+### QA_tester_game_bug_report
+- This folder contains my 2800+ word long bug report for the game Lone Soul. It details various issues in the game ranging from gameplay and game design issues to QoL/UX issues to game breaking bugs while also giving the developers ideas how to solve these problems.
