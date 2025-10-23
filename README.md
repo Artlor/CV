@@ -3,7 +3,7 @@
 # This repository is split into 6 sections:
 
 ### sound_design_showcase
-- Contains a 3 minute showcase of interactive audio implementation in a space shooter game. Over 70 unique sounds created from scratch. Game download for Windows available.
+- Contains links to my sound design showcase, including a Hack 'n' Slash RPG and a Sci-Fi Space Shooter. Over 100 unique sounds made from scratch in total. Sci-Fi Space Shooter download for Windows available.
 
 ### coding_projects
 - Contains some of my C++ projects. Three of them are games and one is music related (learning placement of notes on guitar fretboard).
