@@ -1,13 +1,18 @@
 <h1 align="center";>GAME SOUND DESIGN SHOWCASE</h2>
 
 *<p align="center">All sounds created from scratch by Paweł Biernacki</p>*
-## Links
+## Link to Sound Design Showcase Playlist
 
-**Game sound design showcase on YouTube:** https://youtu.be/_EdfwHmRIZ0?si=Gp_hkFBMXD7Q5Zx7
+**Sound Design Showcase Playlist:** https://www.youtube.com/playlist?list=PLvpdlLqA7GcO6Ll8M5C_s50nYjSAZ8B6e
+
+## Links to Individual Sound Design Showcases
+**1. Sci-Fi Space Shooter Sound Design Showcase on YouTube:** https://youtu.be/_EdfwHmRIZ0?si=PF_fdKPd2Zo-9imN
 
 **Game download on Windows:** https://clippinpaul.itch.io/under-stars
 
-## Description
+**2. Hack 'n' Slash RPG Sound Design Showcase on YouTube:** https://youtu.be/F85gFpdsko8?si=gsNrqsPtyCfqK9bU
+
+## Sci-Fi Space Shooter Description
 
 A space shooter game where your task is to fly around in a spaceship and destroy asteroids. Implemented a variety of sounds, both 2D and 3D, ranging from short one shots to long looped sounds with multiple fade in and fade outs. Parameter automation used to enhance the player's immersion by changing intensity of the ship's engine sound. Carefully implemented randomization formula for playback of background asteroid spawning sounds helps to create a cohesive ambient experience.
 
